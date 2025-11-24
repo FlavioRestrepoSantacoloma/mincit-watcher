@@ -264,7 +264,7 @@ def generate_markdown_report(summaries: dict, output_path: Path):
 
 def generate_html_report(summaries: dict, output_path: Path):
     """
-    Generates a very simple HTML report listing each decree and its summary.
+    Generates a HTML report with a simple search box and cards per decree.
     """
     html_parts = []
     html_parts.append("""<!DOCTYPE html>
@@ -273,42 +273,144 @@ def generate_html_report(summaries: dict, output_path: Path):
   <meta charset="UTF-8">
   <title>Decretos 2025 – Resumen automático</title>
   <style>
-    body { font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-           max-width: 900px; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; }
-    h1 { border-bottom: 2px solid #333; padding-bottom: 0.5rem; }
-    h2 { margin-top: 2rem; }
-    .meta { font-size: 0.9rem; color: #555; margin-bottom: 0.5rem; }
-    .card { margin-bottom: 2rem; padding-bottom: 1rem; border-bottom: 1px solid #ddd; }
-    .summary { margin-top: 0.5rem; white-space: pre-wrap; }
-    a { color: #0645ad; }
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      max-width: 1024px;
+      margin: 2rem auto;
+      padding: 0 1.5rem;
+      line-height: 1.6;
+      background-color: #f7f7f9;
+    }
+    h1 {
+      border-bottom: 2px solid #333;
+      padding-bottom: 0.5rem;
+      margin-bottom: 0.5rem;
+    }
+    .subtitle {
+      color: #555;
+      margin-bottom: 1.5rem;
+    }
+    .search-container {
+      margin-bottom: 1.5rem;
+    }
+    .search-input {
+      width: 100%;
+      padding: 0.6rem 0.8rem;
+      font-size: 1rem;
+      border-radius: 0.5rem;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+    }
+    .card {
+      margin-bottom: 1.5rem;
+      padding: 1rem 1.2rem;
+      border-radius: 0.7rem;
+      background-color: #ffffff;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
+    .card h2 {
+      margin: 0 0 0.3rem 0;
+      font-size: 1.05rem;
+    }
+    .meta {
+      font-size: 0.85rem;
+      color: #666;
+      margin-bottom: 0.4rem;
+    }
+    .summary {
+      margin-top: 0.5rem;
+      white-space: pre-wrap;
+      font-size: 0.95rem;
+    }
+    a {
+      color: #0645ad;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .no-results {
+      margin-top: 1rem;
+      color: #777;
+      font-style: italic;
+    }
   </style>
 </head>
 <body>
 """)
 
     html_parts.append(f"<h1>Decretos 2025 – Resumen automático</h1>\n")
-    html_parts.append(f"<p>Total de decretos resumidos: <strong>{len(summaries)}</strong></p>\n")
-    html_parts.append("<hr>\n")
+    html_parts.append(
+        f"<p class='subtitle'>Total de decretos resumidos: <strong>{len(summaries)}</strong>. "
+        f"Use el buscador para filtrar por número, fecha o contenido.</p>\n"
+    )
+
+    # Search box
+    html_parts.append("""
+<div class="search-container">
+  <input id="searchInput" class="search-input" type="text" placeholder="Buscar por texto en el título o resumen...">
+</div>
+<div id="noResults" class="no-results" style="display:none;">No se encontraron decretos con ese criterio.</div>
+""")
+
+    html_parts.append("<div id=\"cardsContainer\">\n")
 
     for url, info in sorted(summaries.items(), key=lambda x: x[1]["name"]):
         name = info.get("name", "Sin nombre")
         summary = info.get("summary", "Sin resumen disponible.")
         local_path = info.get("local_path", "")
 
-        html_parts.append('<div class="card">')
+        # Build a plain text blob for search (title + summary)
+        search_blob = f"{name} {summary}".lower().replace('"', '\\"')
+
+        html_parts.append(f'<div class="card" data-search="{search_blob}">')
         html_parts.append(f"<h2>{name}</h2>")
         html_parts.append('<div class="meta">')
         html_parts.append(f'URL original: <a href="{url}" target="_blank">{url}</a><br>')
         if local_path:
-            html_parts.append(f"Archivo local: <code>{local_path}</code><br>")
+            html_parts.append(f"Archivo local (en entorno de ejecución): <code>{local_path}</code><br>")
         html_parts.append("</div>")
         html_parts.append('<div class="summary">')
         html_parts.append(summary.replace("\n", "<br>\n"))
         html_parts.append("</div>")
         html_parts.append("</div>\n")
 
+    html_parts.append("</div>\n")
+
+    # Simple client-side search logic
+    html_parts.append("""
+<script>
+  const input = document.getElementById('searchInput');
+  const cardsContainer = document.getElementById('cardsContainer');
+  const noResults = document.getElementById('noResults');
+
+  input.addEventListener('input', function() {
+    const query = this.value.toLowerCase().trim();
+    const cards = cardsContainer.getElementsByClassName('card');
+    let visibleCount = 0;
+
+    for (const card of cards) {
+      const haystack = card.getAttribute('data-search') || '';
+      if (!query || haystack.indexOf(query) !== -1) {
+        card.style.display = '';
+        visibleCount++;
+      } else {
+        card.style.display = 'none';
+      }
+    }
+
+    if (visibleCount === 0 && query) {
+      noResults.style.display = 'block';
+    } else {
+      noResults.style.display = 'none';
+    }
+  });
+</script>
+""")
+
     html_parts.append("</body>\n</html>\n")
 
+    output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text("".join(html_parts), encoding="utf-8")
     print(f"🌐 Reporte HTML generado en: {output_path}")
 
@@ -345,7 +447,7 @@ def send_email_notification(new_items: list, html_report_path: Path | None = Non
             lines.append("")
 
     if html_report_path and html_report_path.exists():
-        lines.append(f"Reporte HTML generado en el servidor: {html_report_path.name}")
+        lines.append(f"Reporte HTML (en el entorno de ejecución): {html_report_path.name}")
 
     body = "\n".join(lines)
 
@@ -421,16 +523,19 @@ def main():
         print("No new summaries needed.")
 
     # Generate reports if there is at least one summary
-    html_path = None
+    html_path_root = None
     if summaries:
         md_path = Path("report_decretos_2025.md")
-        html_path = Path("report_decretos_2025.html")
+        html_path_root = Path("report_decretos_2025.html")
+        docs_html_path = Path("docs") / "index.html"
+
         generate_markdown_report(summaries, md_path)
-        generate_html_report(summaries, html_path)
+        generate_html_report(summaries, html_path_root)
+        generate_html_report(summaries, docs_html_path)
 
     # Send email for new items
     if processed_items_for_email:
-        send_email_notification(processed_items_for_email, html_report_path=html_path)
+        send_email_notification(processed_items_for_email, html_report_path=html_path_root)
 
 
 if __name__ == "__main__":

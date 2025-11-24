@@ -1,0 +1,465 @@
+# Decretos 2025 – Resumen automático
+
+_Total de decretos resumidos: 19_
+
+---
+
+## Decreto-0064-del-24-de-enero-de-2025.aspx
+
+- URL original: https://www.mincit.gov.co/getattachment/118f7054-9f4e-40be-a5ac-80ad6a4e7b35/Decreto-0064-del-24-de-enero-de-2025.aspx
+- Archivo local: `downloads/Decreto-0064-del-24-de-enero-de-2025.pdf`
+
+**Resumen:**
+
+El Decreto 0064 de 24 de enero de 2025 del Ministerio de Comercio, Industria y Turismo de Colombia establece cambios en la representación del Gobierno Nacional en la Junta Directiva de la Cámara de Comercio de Buenaventura.
+
+**De qué trata:**  
+Termina la designación de ÁLVARO DOMINGO RODRÍGUEZ ACOSTA como miembro principal y designa a BEATRIZ MOSQUERA RODRÍGUEZ en su lugar.
+
+**A quién aplica:**  
+Aplica para la Cámara de Comercio de Buenaventura y sus Juntas Directivas, en la representación del Gobierno Nacional.
+
+**Puntos clave:**  
+- Según el Código de Comercio y leyes recientes, el Gobierno Nacional debe designar sus representantes en las Juntas Directivas de las Cámaras de Comercio.  
+- Para Buenaventura, que cuenta con entre 200 y 1.000 afiliados, le corresponde una tercera parte de representación gubernamental en la Junta.  
+- Se revoca la designación anterior (Álvaro Rodríguez) y se nombra a Beatriz Mosquera.  
+- La nueva designada debe posesionarse ante la Junta Directiva de la Cámara de Comercio de Buenaventura.  
+- El Ministerio de Comercio comunicará la designación y el decreto entra en vigencia desde su publicación.
+
+En resumen, es un decreto administrativo que actualiza la representación oficial del Gobierno en la Cámara de Comercio de Buenaventura.
+
+---
+
+## Decreto-0117-del-30-de-enero-de-2025.aspx
+
+- URL original: https://www.mincit.gov.co/getattachment/bd7f1789-00de-4051-a1bc-a27589442ead/Decreto-0117-del-30-de-enero-de-2025.aspx
+- Archivo local: `downloads/Decreto-0117-del-30-de-enero-de-2025.pdf`
+
+**Resumen:**
+
+El Decreto 0117 de 2025, emitido por el Ministerio de Comercio, Industria y Turismo de Colombia, establece medidas transitorias en el sector turismo debido al estado de conmoción interior declarado en la región del Catatumbo y áreas aledañas.
+
+**De qué trata:**  
+Busca mitigar el impacto negativo que el conflicto armado y la violencia están generando en el turismo local, afectando actividades económicas, seguridad y servicios turísticos. También pretende brindar apoyo, como alojamiento temporal, a la población desplazada por esta situación.
+
+**A quién aplica:**  
+Aplica a los prestadores de servicios turísticos, establecimientos de alojamiento y turistas en la región del Catatumbo, incluyendo municipios de Norte de Santander, el área metropolitana de Cúcuta, y municipios del Cesar afectados por la conmoción interior.
+
+**Puntos clave:**  
+- Estado de conmoción declara una grave perturbación del orden público causada por acción de grupos armados ilegales que afecta la seguridad y el turismo.  
+- Se autoriza el uso temporal de los establecimientos turísticos para acoger a desplazados internos (más de 36,000 personas desplazadas, con cerca de 16,000 en albergues oficiales).  
+- Reconoce la caída significativa de la actividad turística local por inseguridad y bloqueos, afectando la economía regional.  
+- El Decreto enfatiza la necesidad de medidas proporcionales, temporales y respetuosas de derechos humanos para restablecer el orden, seguridad y apoyo humanitario.  
+
+En resumen, es una regulación para enfrentar la crisis humanitaria y económica que el conflicto armado genera en el turismo y la población desplazada en el Catatumbo y zonas cercanas.
+
+---
+
+## Decreto-0214-del-27-de-febrero-de-2025.aspx
+
+- URL original: https://www.mincit.gov.co/getattachment/ee5eeced-7c81-424e-8c77-f07b99021ea1/Decreto-0214-del-27-de-febrero-de-2025.aspx
+- Archivo local: `downloads/Decreto-0214-del-27-de-febrero-de-2025.pdf`
+
+**Resumen:**
+
+El Decreto 214 de 2025 modifica los umbrales de valor para la prevención y control del fraude aduanero en la importación de fibras, hilados, tejidos, confecciones y calzado, establecidos inicialmente en el Decreto 2218 de 2017.
+
+**¿De qué trata?**  
+Actualiza los valores mínimos (umbrales) en dólares por kilogramo o por par para ciertos productos textiles y de calzado importados, con el fin de mejorar el control aduanero y evitar fraudes como subdeclaración de precios o contrabando.
+
+**¿A quién aplica?**  
+A importadores y autoridades aduaneras colombianas, específicamente para mercancías clasificadas en ciertos capítulos del Arancel de Aduanas (capítulos 52 a 64) relacionados con fibras, hilados, tejidos, confecciones y calzado.
+
+**Puntos clave:**  
+- Se actualizan los umbrales en función de la inflación de Estados Unidos para mantener su valor real.  
+- Los productos con precio FOB declarado inferior o igual al umbral actualizado estarán sujetos a controles estrictos para prevenir fraude.  
+- El Ministerio de Comercio, Industria y Turismo debe revisar y ajustar anualmente estos umbrales.  
+- La actualización incluye valores específicos para cada subpartida arancelaria de los productos mencionados.  
+- El decreto entra en vigor 15 días después de su publicación.
+
+En resumen, busca fortalecer el control aduanero sobre importaciones textiles y de calzado para proteger la economía y legalidad comercial.
+
+---
+
+## Decreto-0276-del-12-de-marzo-de-2025.aspx
+
+- URL original: https://www.mincit.gov.co/getattachment/30a92974-cb90-499a-b9ff-19c40407e0f9/Decreto-0276-del-12-de-marzo-de-2025.aspx
+- Archivo local: `downloads/Decreto-0276-del-12-de-marzo-de-2025.pdf`
+
+**Resumen:**
+
+El Decreto 0276 de 2025 modifica el Decreto 1074 de 2015 para reglamentar el artículo 305 de la Ley 2294 de 2023. Trata sobre la unificación de dos patrimonios autónomos previos, iNNpulsa Colombia y Colombia Productiva, en un solo patrimonio autónomo llamado iNNpulsa Colombia. Este patrimonio tiene el objetivo de ejecutar estrategias de reindustrialización, emprendimiento, innovación, desarrollo empresarial, productividad y competitividad en Colombia, alineado con el Plan Nacional de Desarrollo 2022-2026.
+
+Aplica al Ministerio de Comercio, Industria y Turismo y a la sociedad fiduciaria que administre el patrimonio autónomo unificado.
+
+Puntos clave:  
+- iNNpulsa Colombia será administrado por la Fiduciaria Colombiana de Comercio Exterior S.A. (Fiducoldex S.A.), entidad con experiencia en este tipo de patrimonios y vinculada al Banco de Comercio Exterior (Bancóldex).  
+- Se extiende el plazo para la entrada en operación del patrimonio autónomo unificado hasta el 30 de junio de 2025 para garantizar una transición ordenada y continuidad en los programas e instrumentos existentes.  
+- El Ministerio suscribirá el contrato de fiducia mercantil con Fiducoldex para la administración y operación del patrimonio autónomo.  
+- El patrimonio se regirá por normas de derecho privado conforme a los lineamientos del Ministerio de Comercio, Industria y Turismo.
+
+En resumen, el decreto busca mejorar la gestión y operación del patrimonio autónomo que impulsa el desarrollo empresarial y la competitividad en Colombia mediante la administración especializada y la unificación de recursos.
+
+---
+
+## Decreto-0305-del-19-de-marzo-de-2025.aspx
+
+- URL original: https://www.mincit.gov.co/getattachment/ef643f2c-f5f9-4ed2-9247-2b43e7692fff/Decreto-0305-del-19-de-marzo-de-2025.aspx
+- Archivo local: `downloads/Decreto-0305-del-19-de-marzo-de-2025.pdf`
+
+**Resumen:**
+
+El Decreto 0305 de 19 de marzo de 2025 establece la vinculación de un funcionario en el servicio exterior colombiano. 
+
+Aplica al doctor Rafael del Cristo Cuesta Castro, quien fue designado como Agregado Comercial con categoría de Consejero en la Embajada de Colombia ante el Gobierno de Estados Unidos.
+
+Puntos clave:
+- La vinculación es aprobada por la Junta Asesora del Fideicomiso de Promoción de Exportaciones PROCOLOMBIA.
+- El funcionario se vincula formalmente al cargo para representar a Colombia en tareas comerciales en Estados Unidos.
+- Los gastos derivados de esta vinculación serán asumidos por PROCOLOMBIA.
+- Se ordena comunicar formalmente el decreto al funcionario designado.
+- El decreto entra en vigencia a partir de la fecha de su expedición, el 19 de marzo de 2025.
+
+En resumen, el decreto oficializa el nombramiento de Rafael del Cristo Cuesta Castro como representante comercial de Colombia en EE.UU., financiado por los recursos de PROCOLOMBIA, para promover las exportaciones colombianas.
+
+---
+
+## Decreto-0306-del-19-de-marzo-de-2025.aspx
+
+- URL original: https://www.mincit.gov.co/getattachment/47012d89-2d1b-4408-8507-d52f975217b9/Decreto-0306-del-19-de-marzo-de-2025.aspx
+- Archivo local: `downloads/Decreto-0306-del-19-de-marzo-de-2025.pdf`
+
+**Resumen:**
+
+El Decreto 0306 de 2025 modifica el artículo 9 del Decreto 2210 de 2023, que creó la Cámara de Comercio del municipio de Soacha y modificó parcialmente el Decreto 1074 de 2015.
+
+**De qué trata:**  
+Establece las reglas para la transición operativa y administrativa de la Cámara de Comercio de Soacha, que hasta ahora dependía en parte de la Cámara de Comercio de Bogotá, garantizando la completa transferencia de funciones, información y servicios para que Soacha maneje de forma autónoma sus funciones registrales y comerciales.
+
+**A quién aplica:**  
+A las Cámaras de Comercio de Soacha y Bogotá, comerciantes y entidades sin ánimo de lucro en la jurisdicción del municipio de Soacha.
+
+**Puntos clave:**  
+- La Cámara de Comercio de Bogotá debe transferir toda la información, expedientes y servicios relacionados con Soacha en un plazo máximo de un año.  
+- Durante la transición, la Cámara de Comercio de Soacha inscribirá nuevos comerciantes y gestionará el recaudo correspondiente.  
+- La Cámara de Comercio de Bogotá continuará gestionando los demás actos registrales hasta completar la migración.  
+- Los recursos generados en Soacha deben destinarse exclusivamente a la Cámara de Comercio de Soacha, garantizando su sostenibilidad económica, exceptuando los costos operativos de Bogotá durante la transición.  
+- El decreto busca una transición ordenada para no afectar a los comerciantes y asegurar la continuidad y calidad en la prestación de servicios.
+
+En resumen, el decreto facilita la autonomía operativa de la Cámara de Comercio de Soacha y regula la colaboración necesaria con la Cámara de Bogotá para lograrlo.
+
+---
+
+## Decreto-0566-del-28-de-mayo-de-2025.aspx
+
+- URL original: https://www.mincit.gov.co/getattachment/27a61108-5a4d-49fb-b1d9-5be68470204d/Decreto-0566-del-28-de-mayo-de-2025.aspx
+- Archivo local: `downloads/Decreto-0566-del-28-de-mayo-de-2025.pdf`
+
+**Resumen:**
+
+El Decreto 0566 de 2025 reglamenta el Certificado de Reembolso Tributario (CERT), un beneficio fiscal para incentivar exportaciones en Colombia.
+
+**De qué trata:**  
+Establece normas para la expedición, uso y negociación del CERT, que devuelve parcial o totalmente los impuestos indirectos pagados por exportadores, promoviendo la internacionalización, el crecimiento productivo y la innovación tecnológica.
+
+**A quién aplica:**  
+A personas naturales o jurídicas en Colombia que exporten bienes o servicios. Aplica a exportadores de productos industriales con mínimo proceso de transformación y a servicios con valor agregado, tecnología e innovación.
+
+**Puntos clave principales:**  
+- El CERT es un instrumento que apoya la competitividad y diversificación de las exportaciones.  
+- Se fija un porcentaje del valor de exportación para el reembolso, diferenciando bienes industriales y servicios.  
+- Regula los criterios, requisitos y procedimientos para la emisión, redención y negociabilidad del CERT.  
+- Busca alinear la política exterior con el Plan Nacional de Desarrollo 2022-2026 y la Política Nacional de Reindustrialización para avanzar hacia una economía sostenible basada en conocimiento e innovación.  
+- El decreto fue aprobado tras consultas y evaluaciones de competencia y costo fiscal, con una asignación presupuestal de hasta 1,5 billones de pesos para 2025-2026.  
+
+Este decreto fortalece el marco legal para fomentar exportaciones con valor agregado en Colombia.
+
+---
+
+## Decreto-0949-del-28-de-agosto-de-2025.aspx
+
+- URL original: https://www.mincit.gov.co/getattachment/7f172db2-0189-4fb6-9af7-eecdf9a4d909/Decreto-0949-del-28-de-agosto-de-2025.aspx
+- Archivo local: `downloads/Decreto-0949-del-28-de-agosto-de-2025.pdf`
+
+**Resumen:**
+
+El Decreto 0949 de 2025 modifica el Decreto 1047 de 2024, abordando las implicaciones del conflicto en la Franja de Gaza y la situación humanitaria derivada de la operación militar israelí desde octubre de 2023.
+
+Aplica principalmente para la administración pública y las entidades relacionadas con la política exterior, derechos humanos y asuntos humanitarios en Colombia.
+
+Puntos clave:
+
+- Reconoce la gravedad de la crisis humanitaria en Gaza, incluyendo muertos, desplazados y desnutrición, con especial énfasis en la protección de niños y poblaciones vulnerables.
+- Enfatiza la prevalencia de los tratados internacionales de derechos humanos, el bloque de constitucionalidad y las normas de ius cogens, como la prohibición del genocidio y crímenes de lesa humanidad.
+- Colombia reafirma su compromiso con la soberanía, respeto al derecho internacional y la integración latinoamericana.
+- Se cita la importancia de las órdenes provisionales de la Corte Internacional de Justicia para proteger al pueblo palestino.
+- Destaca los informes de Naciones Unidas que evidencian violaciones al Derecho Internacional Humanitario por parte de Israel, incluyendo ataques a civiles y centros de salud.
+- Refuerza la obligación del Estado colombiano de actuar conforme al principio de solidaridad social y proteger los derechos humanos en el ámbito internacional.
+
+En resumen, el decreto busca actualizar el marco normativo colombiano para responder adecuadamente a la crisis humanitaria en Palestina, respetando el derecho internacional y los compromisos internacionales del país.
+
+---
+
+## Decreto-0952-del-29-de-agosto-de-2025.aspx
+
+- URL original: https://www.mincit.gov.co/getattachment/5a369a66-18d9-4ebf-98ed-560f791bbf9d/Decreto-0952-del-29-de-agosto-de-2025.aspx
+- Archivo local: `downloads/Decreto-0952-del-29-de-agosto-de-2025.pdf`
+
+**Resumen:**
+
+El Decreto 952 de 2025 modifica parcialmente el Decreto 566 de 2025 y regula aspectos del Certificado de Reembolso Tributario (CERT), un instrumento que apoya las exportaciones de bienes y servicios en Colombia.  
+
+**De qué trata:**  
+El decreto actualiza reglas sobre la administración, reconocimiento, liquidación, caducidad y proceso para solicitar el CERT, buscando mayor claridad y eficiencia en su aplicación. También extiende el periodo de transición para la implementación del CERT, permitiendo un plazo adicional para que las entidades y exportadores se adapten.  
+
+**A quién aplica:**  
+Aplica a exportadores de bienes y servicios en Colombia, al Ministerio de Comercio, Industria y Turismo, al depósito de valores encargado de administrar los CERT, y a los intermediarios financieros que tratan con estos certificados.  
+
+**Puntos clave:**  
+- El CERT otorga un porcentaje del valor FOB de la exportación: 3% para bienes y 2% para servicios.  
+- La liquidación se hace en pesos colombianos según la tasa representativa del mercado vigente.  
+- El CERT caduca a los 2 años desde su expedición.  
+- Las solicitudes deben presentarse máximo 10 meses después de la exportación.  
+- Se establece un periodo de transición de 5 meses para ajustar los procesos.  
+- El depósito de valores es responsable de expedir los certificados tras verificación del Ministerio.  
+
+En resumen, el decreto fortalece la regulación del CERT para facilitar y promover las exportaciones colombianas.
+
+---
+
+## Decreto-0971-del-8-de-septiembre-de-2025.aspx
+
+- URL original: https://www.mincit.gov.co/getattachment/666c3dc4-02cc-4f14-87d2-7943c7f856e6/Decreto-0971-del-8-de-septiembre-de-2025.aspx
+- Archivo local: `downloads/Decreto-0971-del-8-de-septiembre-de-2025.pdf`
+
+**Resumen:**
+
+El Decreto 0971 de 2025 reglamenta el Decreto Ley 1094 de 2024, enfocado en fortalecer el sistema económico propio y el "buen vivir" de los pueblos indígenas que conforman el Consejo Regional Indígena del Cauca (CRIC).
+
+**¿De qué trata?**
+Establece un marco normativo para proteger y promover la autonomía económica, social, cultural y ambiental de estos pueblos indígenas, reconociendo sus derechos a la autodeterminación, a gestionar sus territorios y recursos, y a su sistema económico propio, en armonía con la Constitución y el respeto a sus usos y costumbres.
+
+**¿A quién aplica?**
+Aplica a los pueblos indígenas del Cauca integrados en el CRIC, sus cabildos, resguardos, asociaciones y autoridades territoriales, así como a entidades del Estado involucradas en el desarrollo económico y social, la gestión ambiental y el uso del espectro electromagnético en dichos territorios.
+
+**Puntos clave principales:**
+- Reconocimiento constitucional y legal de la autonomía territorial y económica indígena.
+- Exención para indígenas en el pago por uso del espectro radioeléctrico.
+- Coordinación interinstitucional para proteger derechos económicos y culturales indígenas.
+- Promoción de desarrollo económico acorde a valores culturales y formas de vida indígena.
+- Fortalecimiento de la Autoridad Territorial Económico Ambiental (ATEA) del CRIC.
+- Respeto a los derechos colectivos sobre tierras, recursos naturales y saberes ancestrales.
+- Aplicación de principios constitucionales como pluralismo jurídico y sostenibilidad ambiental.
+
+Este decreto busca garantizar que las comunidades indígenas del Cauca puedan desarrollar sus sistemas económicos propios dentro del marco legal nacional.
+
+---
+
+## Decreto-1001-del-18-de-septiembre-de-2025.aspx
+
+- URL original: https://www.mincit.gov.co/getattachment/449b8ef6-ece5-4d38-977d-90574f078a20/Decreto-1001-del-18-de-septiembre-de-2025.aspx
+- Archivo local: `downloads/Decreto-1001-del-18-de-septiembre-de-2025.pdf`
+
+**Resumen:**
+
+El Decreto 1001 de 2025 reglamenta el artículo 257 de la Ley 2294 de 2023, sobre las compensaciones industriales (Offsets) en compras públicas de defensa en Colombia. Su objetivo es establecer cómo se deben ejecutar estas compensaciones para fortalecer la industria nacional en el sector defensa, alineado con la Política Nacional de Reindustrialización.
+
+Aplica principalmente al Ministerio de Defensa Nacional, al Ministerio de Comercio, Industria y Turismo, y a los proveedores de bienes y servicios para uso militar con contratos desde 3 millones de dólares en adelante.
+
+Puntos clave:
+- Se obliga a incluir compensaciones industriales mínimas del 10% del valor de las adquisiciones militares.
+- Define los tipos de transferencias permitidas: conocimiento, tecnología y proyectos especiales.
+- Establece que estas compensaciones no estarán sujetas al Sistema General de Compra Pública.
+- Regula la firma de Convenios Marco y Convenios Derivados entre el Ministerio de Comercio, Industria y Turismo y los proveedores para administrar los proyectos de compensación.
+- Para contratos estratégicos superiores a 3 mil millones de dólares, se permiten mayores porcentajes y proyectos especiales.
+- Implementa un modelo de gobernanza y evaluación para medir el impacto en la industria nacional y el cierre de brechas tecnológicas.  
+- Resguarda la reserva legal de la información manejada en estos procesos.
+
+En resumen, este decreto busca impulsar el desarrollo industrial colombiano vinculando las compras militares con inversiones en ciencia, tecnología e innovación local.
+
+---
+
+## Decreto-1036-del-3-de-octubre-de-2025.aspx
+
+- URL original: https://www.mincit.gov.co/getattachment/cc9a5055-a8a5-4af5-94c1-2d90f02d6ad6/Decreto-1036-del-3-de-octubre-de-2025.aspx
+- Archivo local: `downloads/Decreto-1036-del-3-de-octubre-de-2025.pdf`
+
+**Resumen:**
+
+El Decreto 1036 de 2025 del Ministerio de Comercio, Industria y Turismo de Colombia trata sobre la finalización de un encargo temporal y el nombramiento ordinario en el puesto de Secretario General de dicha entidad.
+
+Aplica a dos personas específicas: el doctor Jorge Eduardo Morales Morales, a quien se le termina el encargo temporal como Secretario General, y el doctor Yuri Heltmhurg Garcia Torres, quien es nombrado oficialmente en ese cargo.
+
+Puntos clave:
+- Se termina el encargo temporal que tenía Jorge Eduardo Morales Morales como Secretario General.
+- Morales Morales continuará en su empleo de asesor en el Ministerio.
+- Se nombra de manera ordinaria a Yuri Heltmhurg Garcia Torres como Secretario General del Ministerio.
+- Se ordena informar formalmente a ambos funcionarios mediante el Grupo de Talento Humano.
+- El decreto entra en vigencia desde la fecha de su expedición.
+
+En resumen, es un acto administrativo que formaliza el cambio en el cargo de Secretario General dentro del Ministerio de Comercio, Industria y Turismo, pasando de un encargo temporal a un nombramiento definitivo.
+
+---
+
+## Decreto-1037-del-3-de-octubre-de-2025.aspx
+
+- URL original: https://www.mincit.gov.co/getattachment/80153602-bf35-4160-b961-066da6495525/Decreto-1037-del-3-de-octubre-de-2025.aspx
+- Archivo local: `downloads/Decreto-1037-del-3-de-octubre-de-2025.pdf`
+
+**Resumen:**
+
+Este decreto del Ministerio de Comercio, Industria y Turismo de Colombia establece la terminación del encargo temporal y el nombramiento ordinario en el cargo de Viceministro del Viceministerio de Turismo. 
+
+Aplica a los funcionarios John Alexander Ramos Calderón y Camilo Pérez Alvarado.
+
+Puntos clave:
+- Se da por terminado, a partir de la fecha del decreto, el encargo temporal de John Alexander Ramos Calderón como Viceministro.
+- Se nombra de manera ordinaria a Camilo Pérez Alvarado como Viceministro del Viceministerio de Turismo, también desde la fecha del decreto.
+- El Grupo de Talento Humano del Ministerio debe comunicar oficialmente estos cambios a los interesados.
+- El decreto está vigente desde su expedición.
+
+En resumen, el decreto formaliza un cambio administrativo en el Viceministerio de Turismo, pasando de un encargado temporal a un viceministro nombrado ordinariamente.
+
+---
+
+## Decreto-1128-del-26-de-octubre-de-2025.aspx
+
+- URL original: https://www.mincit.gov.co/getattachment/f6245995-a9c5-4567-86bf-0dd40fba74fa/Decreto-1128-del-26-de-octubre-de-2025.aspx
+- Archivo local: `downloads/Decreto-1128-del-26-de-octubre-de-2025.pdf`
+
+**Resumen:**
+
+El Decreto 1128 de 2025 del Ministerio de Comercio, Industria y Turismo de Colombia trata sobre la aceptación oficial de la renuncia del Dr. Juan Sebastián Calderón Machuca al cargo de Asesor Comercial en la Oficina Comercial en Bruselas.
+
+Aplica específicamente al Dr. Calderón Machuca como servidor público de la planta de personal en el exterior de dicho Ministerio.
+
+Puntos clave:
+- El Dr. Calderón fue nombrado en 2020 en el cargo de Asesor Comercial, Código 1060, Grado 09.
+- El 1 de octubre de 2025 presentó su renuncia al cargo.
+- El decreto acepta formalmente dicha renuncia a partir de su expedición.
+- Se ordena comunicar el contenido del decreto al interesado mediante la Secretaría General del Ministerio.
+- El documento fue firmado por la Ministra de Comercio, Industria y Turismo y entra en vigencia desde su publicación.
+
+En resumen, es una norma que formaliza la salida de un asesor comercial del Ministerio, cumpliendo con los procedimientos legales correspondientes.
+
+---
+
+## Decreto-1182-del-8-de-noviembre-de-2025.aspx
+
+- URL original: https://www.mincit.gov.co/getattachment/020e43c4-ab62-483f-85fe-da3901b112ae/Decreto-1182-del-8-de-noviembre-de-2025.aspx
+- Archivo local: `downloads/Decreto-1182-del-8-de-noviembre-de-2025.pdf`
+
+**Resumen:**
+
+El Decreto 1182 de 2025 regula las exportaciones de desperdicios y desechos de chatarra de fundición, hierro y acero en Colombia. 
+
+Aplica a exportadores de chatarra clasificada en las subpartidas arancelarias 7204.10.00.00, 7204.21.00.00, 7204.29.00.00, 7204.30.00.00 y 7204.49.00.00.
+
+Puntos clave:
+- Establece un contingente anual de 40.062 toneladas para estas exportaciones, inferior al límite anterior, para evitar escasez interna de este insumo fundamental para la industria del acero.
+- La administración y control del contingente estará a cargo del Ministerio de Comercio, Industria y Turismo, que verificará con la DIAN que los exportadores no tengan deudas morosas o que cuenten con acuerdos de pago vigentes.
+- No aplicará a exportaciones con permisos ya otorgados antes del decreto, ni a obligaciones contractuales previas generadoras de expectativa legítima.
+- Se establece un procedimiento para que los exportadores acrediten su derecho a exportar por contratos previos.
+- El contingente será revisado anualmente por un comité de comercio exterior.
+- El decreto entra en vigor 15 días después de su publicación y tendrá vigencia de dos años.
+
+En resumen, busca proteger el suministro interno de chatarra controlando las exportaciones mediante un límite anual y reglas claras para su distribución.
+
+---
+
+## Decreto-1183-del-8-de-noviembre-de-2025.aspx
+
+- URL original: https://www.mincit.gov.co/getattachment/45dc6bee-7c85-47c1-9b8d-fbbb92b6c599/Decreto-1183-del-8-de-noviembre-de-2025.aspx
+- Archivo local: `downloads/Decreto-1183-del-8-de-noviembre-de-2025.pdf`
+
+**Resumen:**
+
+El Decreto 1183 de 2025 modifica parcialmente el Arancel de Aduanas para la importación de insumos agropecuarios en Colombia. 
+
+**De qué trata:**  
+Mantiene la tarifa arancelaria en 0% para la importación de ciertos insumos agropecuarios por un año, incluyendo nuevas subpartidas específicas, con el fin de proteger y apoyar la producción agrícola, pecuaria y pesquera nacional.
+
+**A quién aplica:**  
+A importadores de insumos agropecuarios clasificados bajo las subpartidas arancelarias listadas en el decreto, incluyendo productos químicos y otros insumos necesarios para el sector agroindustrial colombiano.
+
+**Puntos clave:**  
+- Se extiende por un año más (desde la publicación del decreto) la exención arancelaria del 0% para insumos agropecuarios que vencía el 25 de mayo de 2024.  
+- Se incluyen nuevas subpartidas (3808.93.19.00 y 3808.93.99.00) para mantener la tarifa 0%.  
+- La medida busca proteger la seguridad alimentaria, la competitividad del sector y la estabilidad de precios a los productores nacionales.  
+- El Comité de Asuntos Aduaneros, Arancelarios y de Comercio Exterior revisará la medida anualmente para evaluar su pertinencia.  
+- Al término del año, si no se renueva, volverán los aranceles establecidos en el Decreto 1881 de 2021.
+
+En resumen, el decreto facilita la importación de insumos agropecuarios sin arancel para fortalecer la producción agrícola y garantizar alimentos en Colombia.
+
+---
+
+## Decreto-1184-del-8-de-noviembre-de-2025.aspx
+
+- URL original: https://www.mincit.gov.co/getattachment/a60ab70a-8c0b-4fee-b234-fa1a2b63bcc1/Decreto-1184-del-8-de-noviembre-de-2025.aspx
+- Archivo local: `downloads/Decreto-1184-del-8-de-noviembre-de-2025.pdf`
+
+**Resumen:**
+
+El Decreto 1184 de 2025 modifica parcialmente el Arancel de Aduanas de Colombia, reduciendo a cero la tarifa arancelaria para la importación de 37 subpartidas de insumos y materias primas del sector confecciones y calzado que no cuentan con producción nacional.
+
+Aplica a: importadores en Colombia que traen insumos y materias primas para confecciones y calzado desde países con los que Colombia no tiene acuerdos comerciales vigentes.
+
+Puntos clave:
+- Busca apoyar la competitividad del sector nacional de confecciones y calzado, que emplea a casi medio millón de personas y genera productos con valor agregado orientados a la exportación.
+- La reducción arancelaria se limita a insumos sin producción local para que no afecte a otros eslabones de la cadena productiva.
+- La medida será válida por dos años desde su entrada en vigencia, con revisión anual del impacto.
+- Entrará en vigor 15 días después de su publicación oficial.
+- Esta política se enmarca en la estrategia nacional de reindustrialización y busca reducir costos para fortalecer la producción nacional frente a importaciones más baratas.
+
+En suma, el decreto facilita la importación de materias primas clave para confecciones y calzado, mejorando la competitividad del sector ante la competencia internacional.
+
+---
+
+## Decreto-1197-del-14-de-noviembre-de-2025.aspx
+
+- URL original: https://www.mincit.gov.co/getattachment/8a2ebf16-d6a4-49ce-9aed-b0fc9917f149/Decreto-1197-del-14-de-noviembre-de-2025.aspx
+- Archivo local: `downloads/Decreto-1197-del-14-de-noviembre-de-2025.pdf`
+
+**Resumen:**
+
+El Decreto 1197 de 2025 modifica parcialmente el Arancel de Aduanas para reducir a 0% los impuestos de importación sobre diez subpartidas arancelarias de insumos y materias primas usadas en los sectores de confecciones y calzado. 
+
+Aplica a importadores de estos insumos y materias primas en Colombia, beneficiando principalmente a la industria nacional textil y de calzado. 
+
+Puntos clave:
+- Busca apoyar el sector confecciones y calzado, que genera empleo formal, especialmente para mujeres y jóvenes.
+- Reduce costos de materias primas para fortalecer la competitividad frente a productos importados.
+- La medida es temporal, válida por un año, con seguimiento semestral para evaluar su impacto.
+- Se basa en estudios del Ministerio de Comercio que muestran alta dependencia de importaciones (88%) para abastecer el mercado local de hilados y textiles.
+- La reducción arancelaria abarca productos específicos clave en la cadena de producción textil como hilados de algodón y poliéster.
+
+En resumen, el decreto facilita la importación sin aranceles de insumos críticos para fortalecer la industria nacional de confecciones y calzado, promoviendo competitividad e inversión en el sector.
+
+---
+
+## Decreto-1198-del-14-de-noviembre-de-2025.aspx
+
+- URL original: https://www.mincit.gov.co/getattachment/1d76cc6f-a4a2-4afd-90c6-f51c57ee9b18/Decreto-1198-del-14-de-noviembre-de-2025.aspx
+- Archivo local: `downloads/Decreto-1198-del-14-de-noviembre-de-2025.pdf`
+
+**Resumen:**
+
+El Decreto 1198 de 2025 modifica la composición del Comité Directivo del Fondo Nacional de Turismo (Fontur) en Colombia.
+
+**De qué trata:**  
+Actualiza quiénes integran el Comité Directivo de Fontur, buscando un mayor equilibrio entre representación pública y privada para mejorar la gestión y alineación con políticas nacionales de turismo.
+
+**A quién aplica:**  
+Aplica al Comité Directivo de Fontur y a las organizaciones gremiales aportantes de la contribución parafiscal del sector turístico.
+
+**Puntos clave:**  
+- El Comité quedará conformado por siete miembros: Ministro de Comercio (o delegado), Viceministro de Turismo, Presidente de Procolombia (o delegado) y tres representantes de gremios aportantes.  
+- Se reduce de cuatro a tres representantes gremiales para agilizar decisiones, sin perder la participación del sector privado.  
+- Se incorpora la Dirección de Inversión Extranjera y Servicios para articular políticas de atracción de capital y desarrollo turístico.  
+- Las decisiones se tomarán por mayoría simple con voto favorable del Ministro o su delegado.  
+- El Ministerio de Comercio lidera la elección de representantes gremiales vía votación con reglas claras de distribución de votos.  
+- El decreto entra en vigor de inmediato, aplicándose en la próxima elección de representantes gremiales.
+
+En resumen, el decreto fortalece el control público en la administración de recursos turísticos, manteniendo participación privada para garantizar transparencia y eficiencia.
+
+---

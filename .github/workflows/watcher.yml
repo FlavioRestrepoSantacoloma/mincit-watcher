@@ -5,8 +5,9 @@ permissions:
 
 on:
   schedule:
+    # Every 30 minutes (UTC)
     - cron: '*/30 * * * *'
-  workflow_dispatch: {}
+  workflow_dispatch: {}  # allow manual trigger from the Actions tab
 
 jobs:
   run-watcher:
@@ -15,6 +16,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # needed so we can commit & push back
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -43,13 +46,14 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
+
           git add report_decretos_2025.md \
                  report_decretos_2025.html \
                  docs/index.html \
                  summaries.json \
-                 known_files.json || true
-          
+                 known_files.json \
+                 error_log.log || true
+
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else

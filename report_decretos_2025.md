@@ -1,6 +1,6 @@
 # Decretos – Resumen automático
 
-_Total de decretos resumidos: 19_
+_Total de decretos resumidos: 20_
 
 ---
 
@@ -267,5 +267,19 @@ El Decreto 1197 de 2025 modifica parcialmente el Arancel de Aduanas para las imp
 **Resumen:**
 
 El Decreto 1198 de 2025 modifica la composición del Comité Directivo del Fondo Nacional de Turismo (Fontur), estableciendo un mayor protagonismo del sector público y una reducción en la representación gremial de cuatro a tres miembros. Se busca un equilibrio entre la administración técnica y la participación privada para asegurar la gestión eficiente de los recursos fiscales y parafiscales destinados a la promoción turística. El Ministerio de Comercio, Industria y Turismo, su Viceministerio de Turismo, y Procolombia forman parte clave del Comité, junto con delegados del sector privado elegidos mediante un proceso de votación definido. Se incorpora la Dirección de Inversión Extranjera y Servicios para alinear la política de atracción de capital y desarrollo turístico. La norma permite una elección más ágil y con mayor eficacia en la toma de decisiones, asegurando que los recursos parafiscales respondan tanto a intereses del sector privado como a políticas públicas. El decreto aplica a partir de su promulgación y afecta las futuras elecciones de representantes gremiales en el Comité Directivo. Para negocios digitales y tecnológicos, implica la importancia de la articulación con políticas de internacionalización y promoción de servicios, así como la oportunidad de participar en la promoción y desarrollo del turismo digital y tecnológico bajo el marco regulatorio y financiero actualizado.
+
+---
+
+## Decreto-1240-del-21-de-noviembre-de-2025.aspx
+
+- Año: **2025**
+- Fuente: **Ministerio de Comercio, Industria y Turismo**
+- URL original: https://www.mincit.gov.co/getattachment/5fd9e810-38e3-4b3b-baf1-706afff0e3c5/Decreto-1240-del-21-de-noviembre-de-2025.aspx
+- Archivo local: `downloads/Decreto-1240-del-21-de-noviembre-de-2025.pdf`
+- Temas: Gobierno y administración pública, Comercio exterior, Política pública
+
+**Resumen:**
+
+El Decreto 1240 de 2025 formaliza la aceptación de la renuncia del Viceministro del Viceministerio de Comercio Exterior y designa a su reemplazo. Es un acto administrativo que implica el cambio en la dirección del Viceministerio de Comercio Exterior del Ministerio de Comercio, Industria y Turismo. Para empresas tecnológicas y negocios digitales, este cambio puede influir en la continuidad o ajuste de las políticas públicas relacionadas con comercio exterior, aunque el decreto no introduce nuevas obligaciones regulatorias ni impactos directos inmediatos en temas específicos de servicios digitales, datos personales o telecomunicaciones. Sin embargo, un nuevo liderazgo puede modificar prioridades regulatorias, por lo que es relevante para equipos legales y de compliance monitorizar futuras disposiciones o lineamientos del viceministerio.
 
 ---

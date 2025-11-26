@@ -1,4 +1,4 @@
-# 📡 RegWatcher – MINCIT Decrees Monitor
+# RegWatcher – MINCIT Decrees Monitor
 
 RegWatcher is an automated pipeline that monitors **Colombia’s Ministry of Commerce, Industry and Tourism (MINCIT)** for new decrees, downloads the official PDFs, summarizes them with AI, and publishes a simple web dashboard.
 
@@ -6,7 +6,7 @@ This project is designed as a **RegTech / data engineering portfolio piece** sho
 
 ---
 
-## 🔍 What it does
+## What it does
 
 - Checks periodically:
   - `https://www.mincit.gov.co/normatividad/decretos/2025`
@@ -23,7 +23,7 @@ This project is designed as a **RegTech / data engineering portfolio piece** sho
 
 ---
 
-## 📊 Outputs
+## Outputs
 
 Each run updates:
 
@@ -39,7 +39,7 @@ Optionally, the pipeline can send an **email notification** when new decrees are
 
 ---
 
-## ⚙️ How it runs
+## How it runs
 
 The entire system runs on **GitHub Actions**, no server needed.
 
@@ -62,7 +62,7 @@ Secrets used:
 
 ---
 
-## 🧠 Tech stack
+## Tech stack
 
 - **Python** (requests, BeautifulSoup, PyPDF, dotenv)
 - **OpenAI API** (GPT-4.1-mini for legal summaries)
@@ -71,7 +71,7 @@ Secrets used:
 
 ---
 
-## 🎯 Why this project matters
+## Why this project matters
 
 This project demonstrates:
 

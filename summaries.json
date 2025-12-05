@@ -308,5 +308,22 @@
     ],
     "source": "Ministerio de Comercio, Industria y Turismo",
     "year": 2025
+  },
+  "https://www.mincit.gov.co/getattachment/d4f1c47b-fd45-41b7-8b88-8b3df4c09c79/Decreto-1294-del-2-de-diciembre-de-2025.aspx": {
+    "name": "Decreto-1294-del-2-de-diciembre-de-2025.aspx",
+    "local_path": "downloads/Decreto-1294-del-2-de-diciembre-de-2025.pdf",
+    "summary": "El Decreto 1294 de 2025, emitido por el Ministerio de Comercio, Industria y Turismo, modifica parcialmente el Arancel de Aduanas aplicable a la subpartida arancelaria 8702.40.90.90, correspondiente a buses eléctricos para transporte público. La norma establece un arancel del 10% para estas importaciones con el propósito de incentivar el ensamble y producción nacional de buses eléctricos, en línea con la Política Nacional de Reindustrialización y el Plan Nacional de Desarrollo 2022-2026. La medida busca fortalecer la industria automotriz local, fomentar la innovación tecnológica y atraer inversiones, además de contribuir a la transición energética y descarbonización. El decreto no restringe la importación, sino que promueve un escenario competitivo más equilibrado, beneficiando el mercado interno y los proveedores nacionales de servicios y componentes tecnológicos. Además, prevé una revisión del impacto de esta medida luego de un año de vigencia. Esta regulación tiene implicaciones directas para empresas de tecnologías de transporte, fabricantes, ensambladoras y proveedores de servicios tecnológicos vinculados a vehículos eléctricos y movilidad sostenible.",
+    "themes": [
+      "Comercio exterior",
+      "Aranceles",
+      "Servicios digitales",
+      "Transición energética",
+      "Movilidad sostenible",
+      "Industria automotriz",
+      "Reindustrialización",
+      "Política pública ambiental"
+    ],
+    "source": "Ministerio de Comercio, Industria y Turismo",
+    "year": 2025
   }
 }

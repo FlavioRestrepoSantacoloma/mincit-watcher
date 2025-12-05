@@ -1,6 +1,6 @@
 # Decretos – Resumen automático
 
-_Total de decretos resumidos: 20_
+_Total de decretos resumidos: 21_
 
 ---
 
@@ -281,5 +281,19 @@ El Decreto 1198 de 2025 modifica la composición del Comité Directivo del Fondo
 **Resumen:**
 
 El Decreto 1240 de 2025 formaliza la aceptación de la renuncia del Viceministro del Viceministerio de Comercio Exterior y designa a su reemplazo. Es un acto administrativo que implica el cambio en la dirección del Viceministerio de Comercio Exterior del Ministerio de Comercio, Industria y Turismo. Para empresas tecnológicas y negocios digitales, este cambio puede influir en la continuidad o ajuste de las políticas públicas relacionadas con comercio exterior, aunque el decreto no introduce nuevas obligaciones regulatorias ni impactos directos inmediatos en temas específicos de servicios digitales, datos personales o telecomunicaciones. Sin embargo, un nuevo liderazgo puede modificar prioridades regulatorias, por lo que es relevante para equipos legales y de compliance monitorizar futuras disposiciones o lineamientos del viceministerio.
+
+---
+
+## Decreto-1294-del-2-de-diciembre-de-2025.aspx
+
+- Año: **2025**
+- Fuente: **Ministerio de Comercio, Industria y Turismo**
+- URL original: https://www.mincit.gov.co/getattachment/d4f1c47b-fd45-41b7-8b88-8b3df4c09c79/Decreto-1294-del-2-de-diciembre-de-2025.aspx
+- Archivo local: `downloads/Decreto-1294-del-2-de-diciembre-de-2025.pdf`
+- Temas: Comercio exterior, Aranceles, Servicios digitales, Transición energética, Movilidad sostenible, Industria automotriz, Reindustrialización, Política pública ambiental
+
+**Resumen:**
+
+El Decreto 1294 de 2025, emitido por el Ministerio de Comercio, Industria y Turismo, modifica parcialmente el Arancel de Aduanas aplicable a la subpartida arancelaria 8702.40.90.90, correspondiente a buses eléctricos para transporte público. La norma establece un arancel del 10% para estas importaciones con el propósito de incentivar el ensamble y producción nacional de buses eléctricos, en línea con la Política Nacional de Reindustrialización y el Plan Nacional de Desarrollo 2022-2026. La medida busca fortalecer la industria automotriz local, fomentar la innovación tecnológica y atraer inversiones, además de contribuir a la transición energética y descarbonización. El decreto no restringe la importación, sino que promueve un escenario competitivo más equilibrado, beneficiando el mercado interno y los proveedores nacionales de servicios y componentes tecnológicos. Además, prevé una revisión del impacto de esta medida luego de un año de vigencia. Esta regulación tiene implicaciones directas para empresas de tecnologías de transporte, fabricantes, ensambladoras y proveedores de servicios tecnológicos vinculados a vehículos eléctricos y movilidad sostenible.
 
 ---

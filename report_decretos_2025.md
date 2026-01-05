@@ -1,6 +1,6 @@
 # Decretos – Resumen automático
 
-_Total de decretos resumidos: 21_
+_Total de decretos resumidos: 24_
 
 ---
 
@@ -295,5 +295,47 @@ El Decreto 1240 de 2025 formaliza la aceptación de la renuncia del Viceministro
 **Resumen:**
 
 El Decreto 1294 de 2025, emitido por el Ministerio de Comercio, Industria y Turismo, modifica parcialmente el Arancel de Aduanas aplicable a la subpartida arancelaria 8702.40.90.90, correspondiente a buses eléctricos para transporte público. La norma establece un arancel del 10% para estas importaciones con el propósito de incentivar el ensamble y producción nacional de buses eléctricos, en línea con la Política Nacional de Reindustrialización y el Plan Nacional de Desarrollo 2022-2026. La medida busca fortalecer la industria automotriz local, fomentar la innovación tecnológica y atraer inversiones, además de contribuir a la transición energética y descarbonización. El decreto no restringe la importación, sino que promueve un escenario competitivo más equilibrado, beneficiando el mercado interno y los proveedores nacionales de servicios y componentes tecnológicos. Además, prevé una revisión del impacto de esta medida luego de un año de vigencia. Esta regulación tiene implicaciones directas para empresas de tecnologías de transporte, fabricantes, ensambladoras y proveedores de servicios tecnológicos vinculados a vehículos eléctricos y movilidad sostenible.
+
+---
+
+## Decreto-1432-del-24-de-diciembre-de-2025.aspx
+
+- Año: **2025**
+- Fuente: **Ministerio de Comercio, Industria y Turismo**
+- URL original: https://www.mincit.gov.co/getattachment/e5c95b70-6e13-477d-b3d3-dcf479850932/Decreto-1432-del-24-de-diciembre-de-2025.aspx
+- Archivo local: `downloads/Decreto-1432-del-24-de-diciembre-de-2025.pdf`
+- Temas: Comercio exterior, Aduanas, Medio ambiente, Política industrial, Servicios digitales, Reindustrialización, Movilidad sostenible
+
+**Resumen:**
+
+El Decreto 1432 de 2025 modifica parcialmente el Arancel de Aduanas Nacionales para incrementar los gravámenes sobre la importación de vehículos y motocicletas con motores de combustión (gasolina y diésel). Se establece un arancel del 40% para vehículos y del 35% para motocicletas en subpartidas específicas, buscando proteger y promover la industria automotriz nacional basada en energías limpias y fortalecer procesos de reindustrialización. Esta medida se enmarca en la Política Nacional de Reindustrialización y el Plan Nacional de Desarrollo 2022-2026, orientados a diversificar la matriz productiva y reducir la dependencia energética de combustibles fósiles, causantes de contaminación y riesgos de salud. La norma también persigue incentivar la transición hacia tecnologías limpias, mejorar la calidad ambiental y generar condiciones favorables para atraer inversiones en producción automotriz avanzada. El decreto respeta compromisos comerciales internacionales y entrará en vigor 15 días después de su publicación. Para negocios digitales, plataformas y servicios tecnológicos vinculados al sector automotor, esto implica un posible aumento en costos de importación y un estímulo para desarrollar tecnologías limpias y sostenibles en movilidad.
+
+---
+
+## Decreto-1433-del-24-de-diciembre-de-2025.aspx
+
+- Año: **2025**
+- Fuente: **Ministerio de Comercio, Industria y Turismo**
+- URL original: https://www.mincit.gov.co/getattachment/ae08a635-0652-4ffa-80a9-b5d7d267296d/Decreto-1433-del-24-de-diciembre-de-2025.aspx
+- Archivo local: `downloads/Decreto-1433-del-24-de-diciembre-de-2025.pdf`
+- Temas: Comercio exterior, Aduanas, Bienes de capital, Servicios digitales, Política arancelaria, Inversión tecnológica
+
+**Resumen:**
+
+El Decreto 1433 de 2025 modifica el Decreto 1446 de 2022 para incluir la subpartida arancelaria 8443.39.10.00, correspondiente a 'Máquinas para imprimir por chorro de tinta', en la lista de bienes de capital beneficiados con reducciones arancelarias. Los bienes de capital se definen como maquinaria y equipo utilizados repetidamente en procesos productivos que no alteran su naturaleza ni forman parte del producto final. Esta inclusión implica que las importaciones de estas máquinas gozarán de un gravamen arancelario del 0%, facilitando su acceso para empresas tecnológicas y productivas. La medida busca fomentar la modernización tecnológica y la inversión en equipo especializado, contribuyendo a la competitividad y desarrollo del sector industrial. La norma entrará en vigor 15 días después de su publicación oficial. El proceso incluyó consulta pública para garantizar transparencia y participación ciudadana. Para negocios digitales y tecnológicos, esta disposición agiliza la importación de maquinaria clave para impresión tecnológica, lo que puede impactar positivamente en servicios de producción avanzada y manufactura digital.
+
+---
+
+## Decreto-1438-del-27-de-diciembre-de-2025.aspx
+
+- Año: **2025**
+- Fuente: **Ministerio de Comercio, Industria y Turismo**
+- URL original: https://www.mincit.gov.co/getattachment/ced08360-06ae-43a3-b58c-3d8966d48cf5/Decreto-1438-del-27-de-diciembre-de-2025.aspx
+- Archivo local: `downloads/Decreto-1438-del-27-de-diciembre-de-2025.pdf`
+- Temas: Comercio exterior, Política comercial, Representación internacional, Servicios comerciales
+
+**Resumen:**
+
+El Decreto 1438 de 2025, emitido por el Ministerio de Comercio, Industria y Turismo de Colombia, oficializa el nombramiento ordinario de la doctora Nancy Esperanza Montaña Molina como Asesora Comercial en la Oficina Comercial en Bruselas (Bélgica). Esta designación reemplaza a su predecesor, el doctor Juan Carlos Cadena Silva, quien renunció recientemente. La norma establece que los recursos para cumplir con las obligaciones derivadas de este nombramiento correrán por cuenta del mismo ministerio. Aunque no introduce cambios regulatorios directos, es relevante para empresas tecnológicas y negocios digitales en la medida que confirma la continuidad y representación comercial del Ministerio en Europa, facilitando la interlocución en temas de comercio exterior y políticas de internacionalización para el sector tecnológico colombiano.
 
 ---
